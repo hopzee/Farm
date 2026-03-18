@@ -1,0 +1,25 @@
+state,capital,area,temperature,humidity,soil_moisture,irrigation
+Lagos,Ikeja,1171,32,75,1,0
+Lagos,Ikeja,1171,34,65,0,1
+Lagos,Ikeja,1171,33,70,1,0
+Kano,Kano,20131,38,30,0,1
+Kano,Kano,20131,35,40,1,0
+Kano,Kano,20131,39,25,0,1
+Rivers,Port Harcourt,11077,31,80,1,0
+Rivers,Port Harcourt,11077,33,70,0,1
+Rivers,Port Harcourt,11077,30,85,1,0
+Kaduna,Kaduna,46053,36,35,0,1
+Kaduna,Kaduna,46053,34,50,1,0
+Kaduna,Kaduna,46053,37,30,0,1
+Oyo,Ibadan,28454,33,60,1,0
+Oyo,Ibadan,28454,35,45,0,1
+Oyo,Ibadan,28454,32,65,1,0
+Enugu,Enugu,7161,30,78,1,0
+Enugu,Enugu,7161,32,68,0,1
+Enugu,Enugu,7161,29,80,1,0
+Borno,Maiduguri,70798,40,25,0,1
+Borno,Maiduguri,70798,37,35,1,0
+Borno,Maiduguri,70798,41,20,0,1
+Plateau,Jos,30913,28,65,1,0
+Plateau,Jos,30913,30,55,0,1
+Plateau,Jos,30913,27,70,1,0
